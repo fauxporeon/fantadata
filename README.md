@@ -15,6 +15,7 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - [Trade Map](#trade-map)
 - [Alternative Fuel Data Center](#alternative-fuel-data-center)
 - [International Energy Agency](#iea-data--statistics)
+- [EIA - US Energy Information Administration](#US-Energy-Information--Administration)
 
 ## List of Data Resources
 
@@ -118,6 +119,16 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - **Data Range**: Varied, dependent on dataset
 - **Geographic Scope**: Global
 - **Alternative URL**: [IEA Main Site](https://www.iea.org/) - Access comprehensive reports and analysis for subsegments of energy such as coal, renewables, and more.
+</details>
+
+### [US Energy Information & Administration](https://www.eia.gov/international/data/world)
+- **Description**: International energy information and statistics including petroleum, coal, biofuels, other energy.
+- **Tags**: Energy, Global Statistics, Data Exploration, Petroleum, Biofuels, Coal
+<details>
+  <summary>Click to expand: US Energy Information & Administration</summary>
+
+- **Data Range**: Varied, dependent on dataset
+- **Geographic Scope**: Global
 </details>
 
 ## How to Use This Resource
