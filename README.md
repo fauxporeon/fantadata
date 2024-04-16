@@ -1,6 +1,6 @@
 # Data Resources
 
-Inspired by [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst), and combined with my need to catalogue public data sources for research, this repository contains a curated list of data resources that are frequently updated and widely used across various fields. Below you'll find links to each source along with relevant tags and the latest update information to help you find the most relevant and current data.
+Inspired by [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst), and combined with my need to catalogue public data sources for research with tabular data, this repository contains a curated list of data resources that are frequently updated and widely used across various fields. Below you'll find links to each source along with relevant tags and the latest update information to help you find the most relevant and current data.
 
 Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) for a more comprehensive list of Data Resources if you don't find anything here.
 
