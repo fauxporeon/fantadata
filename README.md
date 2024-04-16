@@ -11,7 +11,7 @@ Please check out [Awesome Data Sets](https://github.com/awesomedata/awesome-publ
 - [UNData](#undata)
 - [OECD](#oecd)
 - [World Bank DataBank](#World-Bank-Databank)
-- [World Bank Pink Sheet/Commodity Pricing](#World-Bank-Commodity-Pricing-(Pink-Sheet))
+- [World Bank Pink Sheet/Commodity Pricing](#World-Bank-Commodity-Pricing-Pink-Sheet)
 
 ## List of Data Resources
 
@@ -81,7 +81,7 @@ Please check out [Awesome Data Sets](https://github.com/awesomedata/awesome-publ
 <details>
   <summary>Click to expand: World Bank Commodity Pricing (Pink Sheet)</summary>
   
-- **Data Range**: 1960-2024; Forecast available
+- **Data Range**: 1960-Present; Forecast available
 - **Geographic Scope**: Global
 </details>
 
