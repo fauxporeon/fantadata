@@ -4,7 +4,7 @@ This repository contains a curated list of data resources that are frequently up
 
 ## List of Data Resources
 
-### FAOSTAT
+### [FAOSTAT](http://www.fao.org/faostat/en/#data)
 - **Description**: Comprehensive data on food, agriculture, and the environment collected and distributed by the Food and Agriculture Organization.
 - **Tags**: Agriculture, Economics, Global
 - **Last Updated**: 2024
