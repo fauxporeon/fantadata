@@ -26,8 +26,8 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 </details>
 
 ### [IndexMundi](https://www.indexmundi.com/)
-- **Description**: Detailed country statistics, charts, and maps compiled from multiple sources including the CIA World Factbook and the United Nations.
-- **Tags**: Demographics, Global
+- **Description**: Detailed country statistics, charts, commodity price data, and maps compiled from multiple sources including the CIA World Factbook and the United Nations.
+- **Tags**: Demographics, Global, Commodity Pricing
 <details>
   <summary>Click to expand: IndexMundi</summary>
   
