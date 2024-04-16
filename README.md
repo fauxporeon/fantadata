@@ -29,7 +29,7 @@ This repository contains a curated list of data resources that are frequently up
 - **Description**: A data access system to UN databases which brings international statistical databases within easy reach of users.
 - **Tags**: Education, Energy, Environment, Health
 - **Last Updated**: February 2024
-- **Link**: [UNData](http://data.un.org/)
+- **Link**: [UNData]([http://data.un.org/](http://data.un.org/Explorer.aspx?d=EDATA&f=cmID%3aNP))
 - **Data Range**: 1960-2024
 
 ### OECD
