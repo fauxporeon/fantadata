@@ -14,7 +14,7 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - [World Bank Pink Sheet/Commodity Pricing](#World-Bank-Commodity-Pricing-Pink-Sheet)
 - [Trade Map](#trade-map)
 - [Alternative Fuel Data Center](#alternative-fuel-data-center)
-- [International Energy Agency](#iea-data-&-statistics)
+- [International Energy Agency](#iea-data--statistics)
 
 ## List of Data Resources
 
