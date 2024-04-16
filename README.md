@@ -11,6 +11,7 @@ Please check out [Awesome Data Sets](https://github.com/awesomedata/awesome-publ
 - [UNData](#undata)
 - [OECD](#oecd)
 - [World Bank DataBank](#World-Bank-Databank)
+- [World Bank Pink Sheet/Commodity Pricing](#World-Bank-Commodity-Pricing-(Pink-Sheet))
 
 ## List of Data Resources
 
@@ -71,6 +72,16 @@ Please check out [Awesome Data Sets](https://github.com/awesomedata/awesome-publ
   <summary>Click to expand: World Bank DataBank</summary>
   
 - **Data Range**: Varies by dataset; typically from 1960 to present
+- **Geographic Scope**: Global
+</details>
+
+### [World Bank Commodity Pricing (Pink Sheet)](https://www.worldbank.org/en/research/commodity-markets)
+- **Description**: Provides monthly prices and forecasts for commodities, focusing on economic implications for developing countries.
+- **Tags**: Commodity Pricing, Economics, Forecasts
+<details>
+  <summary>Click to expand: World Bank Commodity Pricing (Pink Sheet)</summary>
+  
+- **Data Range**: 1960-2024; Forecast available
 - **Geographic Scope**: Global
 </details>
 
