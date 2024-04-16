@@ -12,6 +12,8 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - [OECD](#oecd)
 - [World Bank DataBank](#World-Bank-Databank)
 - [World Bank Pink Sheet/Commodity Pricing](#World-Bank-Commodity-Pricing-Pink-Sheet)
+- [Trade Map](#trade-map)
+- [Alternative Fuel Data Center](#alternative-fuel-data-center)
 
 ## List of Data Resources
 
@@ -83,6 +85,27 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
   
 - **Data Range**: 1960-Present; Forecast available
 - **Geographic Scope**: Global
+</details>
+
+### [TradeMap](https://www.trademap.org/Index.aspx)
+- **Description**: TradeMap provides detailed indicators on export performance, international demand, alternative markets, and competitive markets. It also includes a directory of importing and exporting companies, organized by Harmonized System (HS) Codes.
+- **Tags**: Trade, International Business, Market Analysis
+<details>
+  <summary>Click to expand: TradeMap</summary>
+  
+- **Data Range**: Varies (Check for updates)
+- **Geographic Scope**: Global
+- **Special Features**: Access to trade statistics by country and product, company directories.
+</details>
+
+### [Alternative Fuel Data Center](https://afdc.energy.gov/data)
+- **Description**: Maps and charts showing transportation data and trends related to alternative fuels and vehicles. Data is available globally and regionally.
+- **Tags**: Alternative Fuels, Transportation, Global, Regional
+<details>
+  <summary>Click to expand: Alternative Fuel Data Center</summary>
+  
+- **Data Range**: Varies (Check website for specific datasets)
+- **Geographic Scope**: Global and Regional
 </details>
 
 ## How to Use This Resource
