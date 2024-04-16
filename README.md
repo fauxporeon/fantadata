@@ -14,6 +14,7 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - [World Bank Pink Sheet/Commodity Pricing](#World-Bank-Commodity-Pricing-Pink-Sheet)
 - [Trade Map](#trade-map)
 - [Alternative Fuel Data Center](#alternative-fuel-data-center)
+- [International Energy Agency](#iea-data-&-statistics)
 
 ## List of Data Resources
 
@@ -106,6 +107,17 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
   
 - **Data Range**: Varies (Check website for specific datasets)
 - **Geographic Scope**: Global and Regional
+</details>
+
+### [IEA Data & Statistics](https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser?country=WORLD&fuel=Energy%20supply&indicator=TESbySource)
+- **Description**: Detailed international energy data and statistics, facilitating data exploration across various energy sources and indicators.
+- **Tags**: Energy, Global Statistics, Data Exploration
+<details>
+  <summary>Click to expand: IEA Data & Statistics</summary>
+
+- **Data Range**: Varied, dependent on dataset
+- **Geographic Scope**: Global
+- **Alternative URL**: [IEA Main Site](https://www.iea.org/) - Access comprehensive reports and analysis for subsegments of energy such as coal, renewables, and more.
 </details>
 
 ## How to Use This Resource
