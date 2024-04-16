@@ -8,6 +8,7 @@ This repository contains a curated list of data resources that are frequently up
 - [Statista](#statista)
 - [UNData](#undata)
 - [OECD](#oecd)
+- [World Bank Data](#WorldBankDatabank)
 
 ## List of Data Resources
 
@@ -58,6 +59,16 @@ This repository contains a curated list of data resources that are frequently up
   <summary>Click to expand: OECD</summary>
 
 - **Data Range**: 1970-Current
+- **Geographic Scope**: Global
+</details>
+
+### [World Bank DataBank](https://databank.worldbank.org/)
+- **Description**: An analysis and visualization tool that contains collections of time series data on a variety of topics such as global development, economy, education, health, and environment.
+- **Tags**: Demographic, Economy, Global, Environment, Health
+<details>
+  <summary>Click to expand: World Bank DataBank</summary>
+  
+- **Data Range**: Varies by dataset; typically from 1960 to present
 - **Geographic Scope**: Global
 </details>
 
