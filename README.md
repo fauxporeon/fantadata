@@ -8,7 +8,7 @@ This repository contains a curated list of data resources that are frequently up
 - [Statista](#statista)
 - [UNData](#undata)
 - [OECD](#oecd)
-- [World Bank Data](#World-Bank-Databank)
+- [World Bank DataBank](#World-Bank-Databank)
 
 ## List of Data Resources
 
