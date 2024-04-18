@@ -5,6 +5,7 @@ Inspired by [Awesome Public Datasets](https://github.com/awesomedata/awesome-pub
 Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) for a more comprehensive list of Data Resources if you don't find anything here.
 
 ## Table of Contents
+- [Google Dataset Research](#google-dataset-research)
 - [FAOSTAT](#faostat)
 - [IndexMundi](#indexmundi)
 - [Statista](#statista)
@@ -18,6 +19,9 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - [EIA - US Energy Information Administration](#US-Energy-Information--Administration)
 
 ## List of Data Resources
+
+### [Google Dataset Research](https://datasetsearch.research.google.com/)
+- **Description**: Google toolkit for researching datasets.
 
 ### [FAOSTAT](http://www.fao.org/faostat/en/#data)
 - **Description**: Comprehensive data on food, agriculture, and the environment collected and distributed by the Food and Agriculture Organization.
