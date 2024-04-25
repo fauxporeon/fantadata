@@ -17,6 +17,7 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - [Alternative Fuel Data Center](#alternative-fuel-data-center)
 - [International Energy Agency](#iea-data--statistics)
 - [EIA - US Energy Information Administration](#US-Energy-Information--Administration)
+- [EUROSTAT](#eurostat)
 
 ## List of Data Resources
 
@@ -133,6 +134,16 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 
 - **Data Range**: Varied, dependent on dataset
 - **Geographic Scope**: Global
+</details>
+
+### [EUROSTAT](https://ec.europa.eu/eurostat/)
+- **Description**: Statistical Database for anyting related to EU
+- **Tags**: Energy, Demographics, Industry & Trade, Agriculture, Transportation, Science, Macroeconomy, Economy
+<details>
+  <summary>Click to expand: EUROSTAT</summary>
+
+- **Data Range**: Varied, dependent on dataset
+- **Geographic Scope**: Europe
 </details>
 
 ## How to Use This Resource
