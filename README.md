@@ -4,6 +4,9 @@ Inspired by [Awesome Public Datasets](https://github.com/awesomedata/awesome-pub
 
 Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) for a more comprehensive list of Data Resources if you don't find anything here.
 
+## How to Use This Resource
+Navigate through the links provided above to access the data sets directly from their official sources. Each link is accompanied by a brief description, tags to understand the focus areas, and the last updated information to ensure you are accessing the most current data.
+
 ## Table of Contents
 - [Google Dataset Research](#google-dataset-research)
 - [FAOSTAT](#faostat)
@@ -11,13 +14,15 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - [Statista](#statista)
 - [UNData](#undata)
 - [OECD](#oecd)
-- [World Bank DataBank](#World-Bank-Databank)
-- [World Bank Pink Sheet/Commodity Pricing](#World-Bank-Commodity-Pricing-Pink-Sheet)
+- [World Bank DataBank](#world-bank-databank)
+- [World Bank Pink Sheet/Commodity Pricing](#world-bank-commodity-pricing-pink-sheet)
 - [Trade Map](#trade-map)
 - [Alternative Fuel Data Center](#alternative-fuel-data-center)
 - [International Energy Agency](#iea-data--statistics)
-- [EIA - US Energy Information Administration](#US-Energy-Information--Administration)
+- [EIA - US Energy Information Administration](#us-energy-information--administration)
 - [EUROSTAT](#eurostat)
+- [data.world](#data.world)
+- [IMF Dataset](#international-monetary-fund-dataset)
 
 ## List of Data Resources
 
@@ -146,8 +151,25 @@ Please check out [Awesome Public Datasets](https://github.com/awesomedata/awesom
 - **Geographic Scope**: Europe
 </details>
 
-## How to Use This Resource
-Navigate through the links provided above to access the data sets directly from their official sources. Each link is accompanied by a brief description, tags to understand the focus areas, and the last updated information to ensure you are accessing the most current data.
+### [data.world](https://data.world/datasets/open-data)
+- **Description**: Open database contributed by users and organizations around the world
+- **Tags**: Energy, Demographics, Industry & Trade, Agriculture, Transportation, Science, Macroeconomy, Economy, Environment
+<details>
+  <summary>Click to expand: data.world</summary>
+
+- **Data Range**: Varied, dependent on dataset
+- **Geographic Scope**: Global
+</details>
+
+### [International Monetary Fund Dataset](https://data.imf.org/)
+- **Description**: International Monetary Fund dataset containing global economic, financial, and trade data including report releases
+- **Tags**: Demographics, Industry & Trade, Financial, Macroeconomy, Economy
+<details>
+  <summary>Click to expand: International Monetary Fund Dataset</summary>
+
+- **Data Range**: Varied, dependent on dataset
+- **Geographic Scope**: Global
+</details>
 
 Feel free to contribute by suggesting new data sources or updates through issues or pull requests.
 
